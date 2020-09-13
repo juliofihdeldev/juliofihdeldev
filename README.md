@@ -68,6 +68,9 @@
 
 </details>
 
+[![Julio's github stats](https://github-readme-stats.vercel.app/api?username=juliofihdeldev)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [twitter]:https://twitter.com/juliojeanfils1
 [instagram]:https://twitter.com/juliojeanfils1
 [linkedin]:https://www.linkedin.com/in/julio-jean-fils-09a464109/

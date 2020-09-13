@@ -45,6 +45,10 @@
 <br />
 <br />
 
+
+[![Julio's github stats](https://github-readme-stats.vercel.app/api?username=juliofihdeldev)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### 📕 Latest Blog Posts
 
 <details>
@@ -67,8 +71,6 @@
   <img align="left" alt="juliofihdeldev's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" /> -->
 
 </details>
-
-[![Julio's github stats](https://github-readme-stats.vercel.app/api?username=juliofihdeldev)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [twitter]:https://twitter.com/juliojeanfils1

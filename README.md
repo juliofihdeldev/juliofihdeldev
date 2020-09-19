@@ -5,7 +5,7 @@
 
 ## I'm a full stack developer and a Teacher!
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently looking for a full time position!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with start-up
 - 🥅 2020 Goals: Contribute more to Open Source projects

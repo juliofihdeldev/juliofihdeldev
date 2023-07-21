@@ -38,7 +38,8 @@
 <br />
 
 
-[![Julio's github stats](https://github-readme-stats.vercel.app/api?username=juliofihdeldev)](https://github.com/anuraghazra/github-readme-stats)
+
+![Julio's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliofihdeldev&show_icons=true&theme=radical)
 
 
 ### 📕 Latest Blog Posts

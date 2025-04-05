@@ -7,8 +7,8 @@
 
 - 🔭 I’m currently working as a software developer for autoLOTO
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with a start-up that uses go as a backend in a microservices   
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 👯 I’m looking to collaborate with a start-up that build project in C and Go as a backend in a microservices   
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I'm a LA fan.
 
 ### Connect with me:

@@ -5,7 +5,7 @@
 
 ## I'm a full-stack developer and a Teacher!
 
-- 🔭 I’m currently working as a software developer for BAIRESDEV on (CAI) Projects
+- 🔭 I’m currently working as a software developer for autoLOTO
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with a start-up that uses go as a backend in a microservices   
 - 🥅 2020 Goals: Contribute more to Open Source projects
